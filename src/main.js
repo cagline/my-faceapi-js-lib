@@ -1,6 +1,7 @@
 import ms from 'ms';
 import lunchtime from './lunchtime.js';
 import millisecondsUntil from './millisecondsUntil.js';
+import './main.css';
 
 export default function howLongUntilLunch(hours, minutes) {
 	// lunch is at 12.30
